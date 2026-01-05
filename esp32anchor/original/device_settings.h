@@ -2,11 +2,11 @@
 #define DEVICE_SETTINGS_H
 
 // ===== WiFi Settings =====
-const char* WIFI_SSID     = "TP-Link_3E19";
-const char* WIFI_PASSWORD = "97651819";
+const char* WIFI_SSID     = "";
+const char* WIFI_PASSWORD = ";
 
 // ===== ThingsBoard Token (anchor_A1) =====
-const char* TB_TOKEN = "t73rK8pD6vJdVP5Cxx0q";
+const char* TB_TOKEN = "";
 
 // ===== ThingsBoard Server =====
 const char* TB_SERVER = "demo.thingsboard.io";
@@ -20,3 +20,4 @@ const char* TARGET_TAG_NAME = "Forklift_Tag_01";
 const char* ANCHOR_ID = "A1";
 
 #endif
+
