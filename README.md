@@ -1,4 +1,3 @@
-# forklift-downtime-monitoring
 # Forklift Downtime Monitoring System
 
 An IoT-based forklift tracking and downtime monitoring system designed to improve operational visibility and efficiency in industrial warehouse environments.
